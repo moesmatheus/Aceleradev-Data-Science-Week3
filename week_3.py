@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def calc():
 
     # Load Data
